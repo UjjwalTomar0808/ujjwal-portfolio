@@ -46,7 +46,7 @@ const projects = [
     title: "Artistly.com",
     description:
       "A frontend demo of an artist booking platform, featuring dynamic artist listings, onboarding, and management dashboards.",
-    image: "/artistly.webp",
+    image: "/artistly-project.webp",
     tags: ["Next.js", "Tailwind CSS", "ShadCN UI", "TypeScript", "React Hook Form", "Yup", "Framer Motion"],
     demoUrl: "https://artistly-phi.vercel.app/",  // Add demo link if available
     githubUrl: "https://github.com/UjjwalTomar0808/artistly", // Add GitHub repo if available
