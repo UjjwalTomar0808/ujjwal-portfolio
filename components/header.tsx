@@ -7,6 +7,7 @@ import { Moon, Sun, Menu, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { motion, AnimatePresence } from "framer-motion"
 
+
 const navItems = [
   { name: "About", href: "#about" },
   { name: "Experience", href: "#experience" },
